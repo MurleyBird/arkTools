@@ -1,0 +1,411 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tar",
+				"tarNameSpace"
+			],
+			[
+				"inf",
+				"influenceA"
+			],
+			[
+				"swi",
+				"switchGroup"
+			],
+			[
+				"tw",
+				"twistBox"
+			],
+			[
+				"stretc",
+				"stretchBox"
+			],
+			[
+				"sym",
+				"symmTargets_R"
+			],
+			[
+				"symm",
+				"symmTargets_L"
+			],
+			[
+				"win",
+				"windowWidth"
+			],
+			[
+				"layout",
+				"layoutObjs"
+			],
+			[
+				"window",
+				"windowWidth"
+			],
+			[
+				"butt",
+				"buttonHeight"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Mauricio Pachon/Documents/maya/modules/arkTools.mod",
+			"settings":
+			{
+				"buffer_size": 187,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "arkStartup.py",
+			"settings":
+			{
+				"buffer_size": 303,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "userSetup.py",
+			"settings":
+			{
+				"buffer_size": 238,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ui/switchUi.py",
+			"settings":
+			{
+				"buffer_size": 1344,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Mauricio Pachon/Documents/GitHub/ArkTools/core/spaceSwitch.py",
+			"settings":
+			{
+				"buffer_size": 998,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Mauricio Pachon/Documents/GitHub/Python_101_S2_2015/layout/tempPositions.json",
+		"/C/Users/Mauricio Pachon/Documents/GitHub/Python_101_S2_2015/layout/layoutPositions.json",
+		"/C/Users/Mauricio Pachon/Documents/GitHub/Python_101_S2_2015/layout/leg_data.json",
+		"/C/Users/Mauricio Pachon/Documents/GitHub/Python_101_S2_2015/layout/arm_data.json",
+		"/C/Users/Mauricio Pachon/Documents/maya/scripts/ctrls.py",
+		"/C/Users/Mauricio Pachon/Documents/maya/scripts/buildMyControls.py",
+		"/C/Users/Mauricio Pachon/Documents/GitHub/Python_101_S2_2015/system/rig_utils.py",
+		"/C/Users/Mauricio Pachon/Documents/GitHub/Python_101_S2_2015/system/utils.py",
+		"/C/Users/Mauricio Pachon/Documents/GitHub/Python_101_S2_2015/system/rig.py",
+		"/C/Users/Mauricio Pachon/Documents/GitHub/Python_101_S2_2015/layout/rig_Layout.py",
+		"/C/Users/Mauricio Pachon/Documents/GitHub/Python_101_S2_2015/rig/Leg.py",
+		"/C/Users/Mauricio Pachon/Documents/GitHub/Python_101_S2_2015/rig/Arm.py",
+		"/C/Users/Mauricio Pachon/Documents/GitHub/Python_101_S2_2015/ui/ui.py",
+		"/C/Users/Mauricio Pachon/Documents/GitHub/Python_101_S2_2015/startup.py",
+		"/C/Users/Mauricio Pachon/Documents/GitHub/Python_101_S2_2015/userSetup.py",
+		"/C/Users/Mauricio Pachon/Documents/maya/modules/RiggingTool.mod",
+		"/C/Users/Mauricio Pachon/Documents/GitHub/Python_101_S2_2015/ui/ui_edit.py",
+		"/C/Users/Mauricio Pachon/Documents/GitHub/Python_101_S2_2015/layout/data.json",
+		"/C/Users/Mauricio Pachon/Documents/GitHub/Python_101_S2_2015/rig/arm_rig_Test.py",
+		"/C/Users/Mauricio Pachon/Documents/GitHub/Python_101_S2_2015/rig/jntcreate.py",
+		"/C/Users/Mauricio Pachon/Documents/GitHub/Python_101_S2_2015/startup",
+		"/C/Users/Mauricio Pachon/Documents/maya/modules/RiggingTool.mod.txt",
+		"/C/Users/Mauricio Pachon/Documents/maya/scripts/colorMeMaya.py"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"uiElements",
+			"prefix",
+			"fkJnts_L",
+			"ikJnts_L",
+			"fkCtrls",
+			"ikArm",
+			"rigJnts",
+			"fkJnts",
+			"ikJnts",
+			"pCube2",
+			"symmetryConstraint2",
+			"pCube1",
+			"prefix + side",
+			"ext",
+			"'c_'",
+			"c_",
+			"mc",
+			"iteritems",
+			"'",
+			"rig_data",
+			"'",
+			"rig_info"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"arkUiElements",
+			"self.prefix",
+			"ikJnts_R",
+			"fkCtrls_L",
+			"ikArm_L",
+			"rigJnts_L",
+			"fkJnts_L",
+			"ikJnts_L",
+			"source",
+			"prefix + '_' + side",
+			"side",
+			"prefix",
+			"cmds",
+			"\"",
+			"self.rig_data",
+			"selft.rig_data",
+			"\"",
+			"self.rig_info"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Mauricio Pachon/Documents/maya/modules/arkTools.mod",
+					"settings":
+					{
+						"buffer_size": 187,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								187,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "arkStartup.py",
+					"settings":
+					{
+						"buffer_size": 303,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								288,
+								288
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "userSetup.py",
+					"settings":
+					{
+						"buffer_size": 238,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								197,
+								197
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "ui/switchUi.py",
+					"settings":
+					{
+						"buffer_size": 1344,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								507,
+								507
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/Mauricio Pachon/Documents/GitHub/ArkTools/core/spaceSwitch.py",
+					"settings":
+					{
+						"buffer_size": 998,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								991,
+								991
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 420.0,
+	"status_bar_visible": true
+}
